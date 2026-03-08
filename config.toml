@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#00FFA3" # Trading Green Color
+backgroundColor = "#0E1117" # Dark Background
+secondaryBackgroundColor = "#262730" # Sidebar/Cards Color
+textColor = "#FAFAFA" # White Text
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
